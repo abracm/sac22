@@ -41,3 +41,10 @@ You need:
 - "resources\\groups.csv", in which you define all of the "settings" for each group, with the event, start and end time and date, and the stage in which it's happening.
 - "resources\\SA Champs 2022 Groups - All Groups.csv", a document created by Sarah Strong that present all of the groups a person is competing in.
 
+## Competitor tally
+competitor_list.py
+
+A simple script for tallying up who were the actual competitors of the Championship, how many they were and their nationalites.
+
+You need: 
+- "resources\\Results for SAC2022.json", the JSON result data download off the scrambles matcher
